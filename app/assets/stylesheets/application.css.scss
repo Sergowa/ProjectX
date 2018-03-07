@@ -30,3 +30,23 @@ footer a{
 footer a:hover{
   color: white;
 }
+
+.section.gray,section.gray {
+ background:#f7f7f7;
+}
+
+div.partners {
+ margin:60px 0 0;
+ display:-webkit-flex;
+ display:flex;
+ flex-wrap:wrap;
+ justify-content:center
+}
+.partners__item {
+ flex-basis:20%;
+ display:-webkit-flex;
+ display:flex;
+ height:150px;
+ align-items:center;
+ justify-content:center
+}

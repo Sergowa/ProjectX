@@ -21,5 +21,6 @@
 /yarn-error.log
 /config/database.yml
 /config/secrets.yml
+/app/assets/images/*
 
 .byebug_history
